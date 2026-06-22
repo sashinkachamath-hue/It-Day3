@@ -1,7 +1,26 @@
  
-       h1 {
+       /*h1 {
         background-color: lightgreen;
         color: white;
         text-align: center;
         }
- 
+p{
+    background-color: lightblue;
+
+}
+
+body{
+    background-color: lightgray;
+}*/
+
+
+.bg-blue-h1{
+
+    background-color: lightblue;
+    color: white;
+}
+
+.bg-green-h1{
+    background-color: lightgreen;
+    color: white;
+}
