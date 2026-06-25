@@ -18,13 +18,29 @@ body{
 
     background-color: lightblue;
     color: white;
+    font-size: Small;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .bg-green-h1{
     background-color: lightgreen;
     color: white;
+    font-size: Small;
+    font-family: Arial, Helvetica, sans-serif;
 }
+     
 
 #pg-background{
     background-color: lightblue;
+}
+
+#pg2-background{
+    background-color: lightgreen;
+}
+
+*{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    
 }
